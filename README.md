@@ -9,5 +9,4 @@
 | 08_dash_datatable.ipynb    | Dash with Datatable and Barchart                |
 | 09_dash_datatable.ipynb    | Dash with Datatable, Dropdowns and Charts       |
 
-![Dash with Datatable and Barchart](images/08_dash_datatable.png)
 ![Dash with Datatable, Dropdowns and Charts](images/09_dash_datatable.png)
