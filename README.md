@@ -1,4 +1,16 @@
+### Dash Demo
+
+A Dash datatable connected with dropdowns and plotly charts.
+Editing the datatable will update the charts.
+Use the dropdown menus to select which data to display in the charts.
+
+Click on this link to run a live demo:
+[Dash Demo](https://degree-teacher-trial-a9rq.herokuapp.com)
+
+---
+
 ![Dash with Datatable, Dropdowns and Charts](images/09_dash_datatable.png)
+
 
 ## Jupyter Notebooks
 
